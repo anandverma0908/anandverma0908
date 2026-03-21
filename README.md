@@ -66,6 +66,10 @@ Interested in contributing to:
 
 ---
 
+## GitHub Stats
+https://github-readme-stats.vercel.app/api?username=anandverma0908
+
+---
 ## Featured Projects
 
 ### Timesheet Intelligence Platform
@@ -110,6 +114,11 @@ Impact:
 - Enables building highly customized data-intensive interfaces
 - Scales efficiently with large datasets and complex interactions
 - Serves as a reusable core for multiple data-driven applications
+
+---
+
+## Contribution Graph
+https://github-readme-activity-graph.vercel.app/graph?username=anandverma0908
 
 ---
 
