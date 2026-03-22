@@ -68,7 +68,7 @@ Interested in contributing to:
 https://github-readme-stats.vercel.app/api?username=anandverma0908
 
 ---
-## Featured Projects
+## Projects
 
 ### Timesheet Intelligence Platform
 A performance-driven timesheet and analytics platform built with React & TypeScript, designed to provide real-time visibility into engineering productivity and effort distribution.
