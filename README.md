@@ -36,8 +36,6 @@ I turn complex problems into **simple, fast, and maintainable solutions**.
 
 ---
 
-## Professional Positioning
-
 I’m looking to contribute to **high-impact teams** solving complex frontend challenges at scale.
 
 * Strong in **system design & architecture**
